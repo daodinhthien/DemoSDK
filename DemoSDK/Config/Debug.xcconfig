@@ -1,0 +1,16 @@
+//
+//  Debug.xcconfig
+//  DemoSDK
+//
+//  Created by ThienDD9 on 26/02/2025.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+DEMO_APP_NAME = Demo Debug
+DEMO_APP_VERSION = 6.11.3
+DEMO_APP_BUILD = 2024113001
+DEMO_APP_ENVIRONMENT = Debug
+PRODUCT_BUNDLE_IDENTIFIER = com.vn.DemoSDK.Debug
+IS_DEBUG = 1
